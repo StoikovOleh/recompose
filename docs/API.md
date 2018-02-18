@@ -31,7 +31,7 @@ Some, like `pure`, are higher-order components themselves:
 const PureComponent = pure(BaseComponent)
 ```
 
-## TOC
+## HOC
 
 * [Higher-order components](#higher-order-components)
   + [`mapProps()`](#mapprops)
